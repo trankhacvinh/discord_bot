@@ -1,0 +1,47 @@
+﻿{
+  "status": {
+    "level": 0
+  },
+  "type": [
+    "LISTENING",
+    "PLAYING",
+    "WATCHING",
+    "READING",
+    "CUSTOM"
+  ],
+  "emotion": {
+    "happy": [
+      "Cảm thấy vui vẻ",
+      "Tràn ngập hạnh phúc",
+      "ae muốn fuck thì tự copy vào"
+    ],
+    "normal": [
+      "Hoa rơi cửa phật"
+    ],
+    "sad": [
+      "Vạn sự tùy duyên"
+    ],
+    "crazy": [
+      "Ư ư"
+    ]
+  },
+  "twitch": "",
+  "listening": [
+    "Một bản nhạc ....",
+    "Piano music"
+  ],
+  "playing": [
+    "King's Raid"
+  ],
+  "watching": [
+    "Pokemon",
+    "XXX",
+    "Thế giới động vật"
+  ],
+  "reading": [
+    "Tập đọc Tiếng Việt lớp 1",
+    "Toán cao cấp",
+    "Vật lý lượng tử",
+    "MACHINE LEARNING"
+  ]
+}

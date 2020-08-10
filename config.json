@@ -1,0 +1,16 @@
+{
+	"prefix": "!",
+	"token": "TOKEN của YOUR BOT DISCORD",
+	"newsapi": "",
+	"generalChannel": "ID CHANNEL CỦA KÊNH CHAT CHỈ ĐỊNH",
+	"imageChannel": "ID CHANNEL NÀY CỦA KÊNH POST ẢNH 2TEN",
+	"numberOfImage": 3,
+	"minuteOfLoop": 5,
+	"imageConfig": {
+		"theLoai": "anime",
+		"pg": "all",
+		"soLuong": "5",
+		"thoiGian": "5"
+	},
+	"server": "lel my IP server"
+}

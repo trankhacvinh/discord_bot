@@ -1,0 +1,360 @@
+{
+  "anime": {
+    "id": 1,
+    "name": "Hàng anime",
+    "type": "anime",
+    "status": 0,
+    "sub": [
+      {
+        "name": "ecchi",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "UpskirtHentai",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "CuteTraps",
+        "pg": "16",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "OppaiLove",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "oppai_gif",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "AnimeFeet",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "animelegs",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "pantsu",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "Sukebei",
+        "pg": "16",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "hentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "HENTAI_GIF",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "ahegao",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "Nekomimi",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "traphentai",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "Tentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "yuri",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "DeliciousTraps",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "anime_nsfw",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "HentaiVisualArts",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "fitgirlshentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "HeartShapedHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "ElfHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "HQHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "AnimeBooty",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "yaoi",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "nsfwanimegifs",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "AnimeMILFS",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "animebodysuits",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "NSFWAnimeWallpaper",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "HentaiBreeding",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "uncensoredhentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "EmbarrassedHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "ReZeroHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "MaidHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "nekogirls",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "holdthemoanhentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "holdthemoanhentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "hentaifemdom",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "hentaifemdom",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "CumHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "ecchigifs",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "thighhighhentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "swimsuithentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "grailwhores",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "StruggleHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "pettankohentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "LewdLive",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "muchihentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "BisexualHentai",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "FutanariHentai",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "Futa_Hentai",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      }
+    ]
+  },
+  "real": {
+    "id": 2,
+    "name": "Hàng real",
+    "type": "Real",
+    "status": 0,
+    "sub": [
+      {
+        "name": "realasians",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "RealAhegao",
+        "pg": "18",
+        "for": "male",
+        "status": 0
+      },
+      {
+        "name": "Men2Men",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "GayGifs",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "gaysian",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      },
+      {
+        "name": "gaynsfw",
+        "pg": "18",
+        "for": "female",
+        "status": 0
+      }
+    ]
+  }
+}

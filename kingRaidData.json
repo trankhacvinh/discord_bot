@@ -1,0 +1,608 @@
+{
+  "class": [
+    "Knight",
+    "Warrior",
+    "Assassin",
+    "Archer",
+    "Mechanic",
+    "Wizard",
+    "Priest"
+  ],
+  "heroes": [
+    {
+      "name": "Aselica",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Aselicaico.png/70px-Aselicaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Clause",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Clauseico.png/70px-Clauseico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Demia",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Demiaico.png/70px-Demiaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Dosarta",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Dosartaico.png/70px-Dosartaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Glenwys",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Glenwysico.png/70px-Glenwysico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Jane",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Janeico.png/70px-Janeico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Loman",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Lomanico.png/70px-Lomanico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Morrah",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Morrahico.png/70px-Morrahico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Neraxis",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Neraxisico.png/70px-Neraxisico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Phillop",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Phillopico.png/70px-Phillopico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Ricardo",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Ricardoico.png/70px-Ricardoico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Sonia",
+      "class": "knight",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Soniaico.png/70px-Soniaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Bernheim",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Bernheimico.png/70px-Bernheimico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Chase",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Chaseico.png/70px-Chaseico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Gau",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Gauico.png/70px-Gauico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Kasel",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Kaselico.png/70px-Kaselico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Kirze",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Kirzeico.png/70px-Kirzeico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Naila",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Nailaico.png/70px-Nailaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Nicky",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Nickyico.png/70px-Nickyico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Priscilla",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Priscillaico.png/70px-Priscillaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Scarlet",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Scarletico.png/70px-Scarletico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Seria",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Seriaico.png/70px-Seriaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Theo",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Theoico.png/70px-Theoico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Viska",
+      "class": "warrior",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Viskaico.png/70px-Viskaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Epis",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Episico.png/70px-Episico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Erze",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Erzeico.png/70px-Erzeico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Ezekiel",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Ezekielico.png/70px-Ezekielico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Fluss",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Flussico.png/70px-Flussico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Gladi",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Gladiico.png/70px-Gladiico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Kibera",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Kiberaico.png/70px-Kiberaico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Laudia",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Laudiaico.png/70px-Laudiaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Mirianne",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Mirianneico.png/70px-Mirianneico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Nia",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Niaico.png/70px-Niaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Reina",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Reinaico.png/70px-Reinaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Roi",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Roiico.png/70px-Roiico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Tanya",
+      "class": "assassin",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Tanyaico.png/70px-Tanyaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Arch",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Archico.png/70px-Archico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Dimael",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Dimaelico.png/70px-Dimaelico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Luna",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Lunaico.png/70px-Lunaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Requina",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Requinaico.png/70px-Requinaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Selene",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Seleneico.png/70px-Seleneico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Shamilla",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Shamillaico.png/70px-Shamillaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Yanne",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Yanneico.png/70px-Yanneico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Yuria",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Yuriaico.png/70px-Yuriaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Zafir",
+      "class": "archer",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Zafirico.png/70px-Zafirico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Annette",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Annetteico.png/70px-Annetteico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Cecilia",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Ceciliaico.png/70px-Ceciliaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Chrisha",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Chrishaico.png/70px-Chrishaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Crow",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Crowico.png/70px-Crowico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Hanus",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Hanusico.png/70px-Hanusico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Kara",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Karaico.png/70px-Karaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Lakrak",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Lakrakico.png/70px-Lakrakico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Miruru",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Miruruico.png/70px-Miruruico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Mitra",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Mitraico.png/70px-Mitraico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Oddy",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Oddyico.png/70px-Oddyico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Pansirone",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Pansironeico.png/70px-Pansironeico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Rodina",
+      "class": "mechanic",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Rodinaico.png/70px-Rodinaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Aisha",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Aishaico.png/70px-Aishaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Artemia",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Artemiaico.png/70px-Artemiaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Cain",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Cainico.png/70px-Cainico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "Cleo",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Cleoico.png/70px-Cleoico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Dakaris",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Dakarisico.png/70px-Dakarisico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Esker",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Eskerico.png/70px-Eskerico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Lewisia",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Lewisiaico.png/70px-Lewisiaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Lilia",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Liliaico.png/70px-Liliaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Lorraine",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Lorraineico.png/70px-Lorraineico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Maria",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Mariaico.png/70px-Mariaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Nyx",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Nyxico.png/70px-Nyxico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Ophelia",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Opheliaico.png/70px-Opheliaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Pavel",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Pavelico.png/70px-Pavelico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Veronica",
+      "class": "wizard",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Veronicaico.png/70px-Veronicaico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Baudouin",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Baudouinico.png/70px-Baudouinico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Cassandra",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Cassandraico.png/70px-Cassandraico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Frey",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Freyico.png/70px-Freyico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Juno",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Junoico.png/70px-Junoico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Kaulah",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Kaulahico.png/70px-Kaulahico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Laias",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Laiasico.png/70px-Laiasico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Lavril",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Lavrilico.png/70px-Lavrilico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Leo",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Leoico.png/70px-Leoico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Lucias",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Luciasico.png/70px-Luciasico.png",
+      "type": "phys",
+      "gender": "male"
+    },
+    {
+      "name": "May",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Mayico.png/70px-Mayico.png",
+      "type": "magic",
+      "gender": "female"
+    },
+    {
+      "name": "Mediana",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Medianaico.png/70px-Medianaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Rehartna",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Rehartnaico.png/70px-Rehartnaico.png",
+      "type": "phys",
+      "gender": "female"
+    },
+    {
+      "name": "Rephy",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Rephyico.png/70px-Rephyico.png",
+      "type": "magic",
+      "gender": "male"
+    },
+    {
+      "name": "Shea",
+      "class": "priest",
+      "img": "http://krw-img-thumb.s3.amazonaws.com/Sheaico.png/70px-Sheaico.png",
+      "type": "magic",
+      "gender": "female"
+    }
+  ]
+}
